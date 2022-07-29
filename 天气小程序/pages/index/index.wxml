@@ -1,0 +1,30 @@
+<view>
+  <view>
+    <navigation>
+      <view >
+        <view style="color: antiquewhite;">4月24日</view>
+      </view>
+    </navigation>
+  </view>
+  <view>
+    <view>
+      <image src="https://th.bing.com/th/id/OIP.yElj97gbrWBhGZyjDhuSCgHaE8?w=238&h=180&c=7&r=0&o=5&dpr=2&pid=1.7">
+      </image>
+      <image src="https://th.bing.com/th/id/OIP.yElj97gbrWBhGZyjDhuSCgHaE8?w=238&h=180&c=7&r=0&o=5&dpr=2&pid=1.7">
+      </image>
+      <image src="https://th.bing.com/th/id/OIP.yElj97gbrWBhGZyjDhuSCgHaE8?w=238&h=180&c=7&r=0&o=5&dpr=2&pid=1.7">
+      </image>
+      <image src="https://th.bing.com/th/id/OIP.yElj97gbrWBhGZyjDhuSCgHaE8?w=238&h=180&c=7&r=0&o=5&dpr=2&pid=1.7">
+      </image>
+      <image src="https://th.bing.com/th/id/OIP.yElj97gbrWBhGZyjDhuSCgHaE8?w=238&h=180&c=7&r=0&o=5&dpr=2&pid=1.7">
+      </image>
+      <image src="https://th.bing.com/th/id/OIP.yElj97gbrWBhGZyjDhuSCgHaE8?w=238&h=180&c=7&r=0&o=5&dpr=2&pid=1.7">
+      </image>
+      <image src="https://th.bing.com/th/id/OIP.yElj97gbrWBhGZyjDhuSCgHaE8?w=238&h=180&c=7&r=0&o=5&dpr=2&pid=1.7">
+      </image>
+      <view>
+      test123
+      </view>
+    </view>
+  </view>
+</view>

@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "navigation":"/pages/Components/Navigation/nav"
+  }
+}

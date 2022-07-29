@@ -1,0 +1,25 @@
+/* pages/navBar.wxss */
+.nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+}
+.nav-main {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  background: linear-gradient(to right bottom,
+  rgba(44,44,69,0.6),
+  rgba(44,44,69,0.3),
+  rgba(44,44,69,0.2));
+  border-top: 2rpx solid rgba(44,44,69,0.8);
+  border-left: 2rpx solid rgba(44,44,69,0.8);
+  box-shadow: 0 9px 15px 0 rgba(25,21,40,0.39),0 -9px 15px 0 rgba(25,21,40,0.39);
+  backdrop-filter: blur(9px)
+}
+.nav .capsule-box {
+  position: absolute;
+  box-sizing: border-box;
+  width: 100%;
+}
